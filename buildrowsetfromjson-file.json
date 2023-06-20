@@ -1,14 +1,8 @@
 {
-    "Customers" : [
-        {
-            "FirstName": "Jon",
-            "LastName": "Snow",
-            "EmailAddress": "jon.snow@crowmail.com"
-        },
-        {
-            "FirstName": "Silverfox",
-            "LastName": "Kristofferson",
-            "EmailAddress": "kristofferson@foxmail.com"
-        }
-    ]
+"content": {
+"id": "88e5a9bc84f53a7d3f134a5c016e489f",
+"www.google.com.au": {
+"link": "https://www.google.com.au?link=1"
+}
+}
 }
