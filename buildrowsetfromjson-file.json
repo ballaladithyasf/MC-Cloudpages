@@ -1,0 +1,14 @@
+{
+    "Customers" : [
+        {
+            "FirstName": "Jon",
+            "LastName": "Snow",
+            "EmailAddress": "jon.snow@crowmail.com"
+        },
+        {
+            "FirstName": "Silverfox",
+            "LastName": "Kristofferson",
+            "EmailAddress": "kristofferson@foxmail.com"
+        }
+    ]
+}
